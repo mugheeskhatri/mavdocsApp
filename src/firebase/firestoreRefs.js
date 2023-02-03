@@ -1,0 +1,1 @@
+export const storeRef = firebase.firestore().collection("sample");
